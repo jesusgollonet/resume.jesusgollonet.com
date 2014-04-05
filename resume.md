@@ -1,43 +1,59 @@
-# Jesús Gollonet Bailén 
-# Interactive media developer / CV
+# Jesús Gollonet Bailén, developer
 
-## Contact details:
+me@jesusgollonet.com
 
 +31615887944
 
 Prinsengracht 310, I, 1016 BW, Amsterdam, Netherlands
 
-## Experience
+
+# Resume
+
+## Work
+
+#### Senior developer/Tech lead
+##### Resn, Amsterdam. *October 2012 – March 2013*
+
+I developed and tech led projects for the amsterdam office of Resn. We developed websites for clients such as coca cola, adidas, converse, rei. My duties included frontend and backend development, project planning, estimation and management and coordination with external vendors and clients.
+
 #### Creative developer
-##### The Dam Armada (part of W+K Amsterdam). *September 2010 – Present*
+##### The Dam Armada (part of W+K Amsterdam), Amsterdam. *September 2010 – September 2012*
 
-I worked in many projects with a wide variety of tools, including prototyping android and iphone/ipad apps using c++ and objective-c, an ipad book for children (currently in development), interactive installations. websites using wordpress and middleman
-
-#### Digital interface design teacher
-##### Esdi, Escola Superior de Disseny . October 2009 – July 2010
-
-Taught digital interface design and development to electronic arts students (4th course).
+I developed an app for the generative identity of coca cola music global. I also developed and prototyped apps for android and ios using c++ and objective-c, an ipad book for children, interactive installations and websites using wordpress and middleman. 
 
 #### Freelance Interactive Media Developer
-##### Self-employed. June 2008 – August 2010
+##### Self-employed, Barcelona. June 2008 – August 2010
 
 Developed a wide variety of interactive projects for both spanish and international clients and brands using multiple technologies, including interactive experiences using computer visión, flash and html/css websites,dekstop apps, information visualization pieces and more.
  
 #### Interactive Media Developer
-##### Utani. January 2007 – June 2008
+##### Utani, Barcelona. January 2007 – June 2008
 
-Worked as a programmer on physical interaction projects for this young interactive studio. My duties included concept, research and development of interactive installations and tools. I worked mainly in 3 projects:_
+Worked as a programmer on physical interaction projects. My duties included concept, research and development of interactive installations and tools. 
 
 #### Creative Coder
-##### Herraizsoto. November 2005 – December 2006
+##### Herraizsoto, Barcelona. November 2005 – December 2006
 
 Worked as a creative programmer in the R&D department for the this internet advertising agency. Developed projects for clients such as Spontex (2 Interactive video pieces), Barcelóviajes (small interactive showrooms), BMW and others, as well as internal research projects.
 
 
 #### Flash Front-end developer
-##### Cp-Interactive. November 2005 – December 2006
+##### Cp-Interactive, Barcelona. March – October 2005
 
-I was the main developer of the Seat International account. I worked in all phases of microsite development:, including creative concept, flash programming and sotware documentation for its adaptation in more than 20 different countries.
+I worked as the main developer for Seat International account in all phases of microsite development:, including creative concept, flash programming and sotware documentation for international adaptation of content.
+
+
+## Teaching
+
+### Mobile Apps with openFrameworks 
+#### IMAL, Brussels. November 2012
+Co-taught a workshop on mobile development (iOS and Android) with openFrameworks. 
+
+
+#### Digital interface design teacher
+##### Esdi, Escola Superior de Disseny. October 2009 – July 2010
+
+Taught a yearlong course on design and development of digital interfaces to electronic arts students.
 
 
 ## Education
@@ -59,27 +75,40 @@ I was the main developer of the Seat International account. I worked in all phas
 
 ### Workshops:
 
+#### Colliding Realities - Performance, Controllers, Code. Supercollider (2010)
+##### STEIM. (Amsterdam).
+4 day supercollider workshop Led by Alberto de Campo and Hannes Hoelzl
+
+
 #### Introduction to Computer Sound Synthesis with Chuck (2008).
 ##### Lullcec + Hangar. (Barcelona).
-Led by Eduard Aylon.
+2 day workshop led by Eduard Aylon.
 
 #### Extend: Advanced Processing workshop (2006).
 ##### OFFF + Hangar. (Barcelona).
-Led by Ben Fry, Casey Reas, Zach Lieberman and Marius Watz. 
+4 day workshop Led by Ben Fry, Casey Reas, Zach Lieberman and Marius Watz. 
 
 #### Eating Video. Computer Vision with Processing workshop (2005)
 ##### Esdi. (Sabadell).
-Led by Zach Lieberman. 
-
-#### Online flash games workshop (2002)
-##### Universitat Oberta de Cataluña.
-
-
-
-
-
+1 day workshop led by Zach Lieberman. 
 
 ## Awards & recognition
+
+### adidas originals tumblr
+- awwwards site of the day
+- featured on hoverstates
+- fwa site of the day
+- fwa mobile of the day
+
+### rei 1440 project
+- awwwards site of the day
+- fwa site of the day
+- fwa mobile of the day
+- adobe cutting edge project of the week
+- featured at google's creative sandbox
+
+### coke music dynamic identity
+- featured on creative review
 
 #### Rituals, Roca Barcelona Gallery:
 - Cannes Golden Lion, (Design category, 2010)
@@ -133,8 +162,10 @@ Led by Zach Lieberman.
 
 ## Other
 
-http://jesusgollonet.com/blog
-https://twitter.com/#!/jesusgollonet
-http://www.delicious.com/jesusgollonet
-http://www.flickr.com/photos/jesusgollonet
+- http://jesusgollonet.com/blog
+- http://twitter.com/jesusgollonet
+- http://jesusgollonet.tumblr.com
+- https://pinboard.in/u:jesusgollonet
+- http://www.flickr.com/photos/jesusgollonet
+
 
