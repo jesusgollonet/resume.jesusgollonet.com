@@ -94,20 +94,20 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ## Awards & recognition
 
-### adidas originals tumblr
+#### adidas originals tumblr
 - awwwards site of the day
 - featured on hoverstates
 - fwa site of the day
 - fwa mobile of the day
 
-### rei 1440 project
+#### rei 1440 project
 - awwwards site of the day
 - fwa site of the day
 - fwa mobile of the day
 - adobe cutting edge project of the week
 - featured at google's creative sandbox
 
-### coke music dynamic identity
+#### coke music dynamic identity
 - featured on creative review
 
 #### Rituals, Roca Barcelona Gallery:
