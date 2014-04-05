@@ -12,7 +12,7 @@ Prinsengracht 310, I, 1016 BW, Amsterdam, Netherlands
 ## Work
 
 #### Senior developer/Tech lead
-##### Resn, Amsterdam. *October 2012 – March 2013*
+##### Resn, Amsterdam. *October 2012 – March 2014*
 
 I developed and tech led projects for the amsterdam office of Resn. We developed websites for clients such as coca cola, adidas, converse, rei. My duties included frontend and backend development, project planning, estimation and management and coordination with external vendors and clients.
 
