@@ -14,7 +14,7 @@ EOF
 
 
 function generate(){
-    pandoc resume.md -s -o index.html
+    pandoc resume.md -c style.css -s -o index.html
 }
 
 # generate && open cv
@@ -24,5 +24,5 @@ function preview(){
 
 function publish(){
     generate 
-    scp index.html jgb:public_html/resume.jesusgollonet.com
+    scp index.html style.css jgb:public_html/resume.jesusgollonet.com
 }
