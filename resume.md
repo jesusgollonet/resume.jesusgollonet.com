@@ -70,11 +70,16 @@ Taught a yearlong course on design and development of digital interfaces to elec
 ##### University of Cambridge. *2002*
 
 
-### Workshops:
+### Workshops, courses:
+
+#### Software engineering for software as a service
+##### coursera.org . Online. *May - June 2012*
+5 week long course on software engineering principles for SAAS covering topics such as Web architecture, TDD, BDD, etc. using ruby on rails
+
 
 #### Colliding Realities - Performance, Controllers, Code. Supercollider 
 ##### STEIM. Amsterdam. *October 2010*
-4 day supercollider workshop Led by Alberto de Campo and Hannes Hoelzl
+4 day supercollider workshop led by Alberto de Campo and Hannes Hoelzl
 
 
 #### Introduction to Computer Sound Synthesis with Chuck.
@@ -83,11 +88,11 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 #### Extend: Advanced Processing workshop.
 ##### OFFF + Hangar, Barcelona. *2006*
-4 day workshop Led by Ben Fry, Casey Reas, Zach Lieberman and Marius Watz. 
+4 day workshop led by Ben Fry, Casey Reas, Zach Lieberman and Marius Watz. 
 
 #### Eating Video. Computer Vision with Processing workshop.
 ##### Escola Superior de Disseny, Barcelona. *2005*
-1 day workshop led by Zach Lieberman. 
+1 day workshop led by Zach Lieberman.
 
 ## Awards & recognition
 
