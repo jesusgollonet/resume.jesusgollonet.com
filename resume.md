@@ -162,10 +162,10 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ## Other
 
-- http://jesusgollonet.com/blog
-- http://twitter.com/jesusgollonet
-- http://jesusgollonet.tumblr.com
-- https://pinboard.in/u:jesusgollonet
-- http://www.flickr.com/photos/jesusgollonet
+- [http://jesusgollonet.com/blog](http://jesusgollonet.com/blog)
+- [http://twitter.com/jesusgollonet](http://twitter.com/jesusgollonet)
+- [http://jesusgollonet.tumblr.com](http://jesusgollonet.tumblr.com)
+- [https://pinboard.in/u:jesusgollonet](https://pinboard.in/u:jesusgollonet)
+- [http://www.flickr.com/photos/jesusgollonet](http://www.flickr.com/photos/jesusgollonet)
 
 
