@@ -6,9 +6,6 @@ me@jesusgollonet.com
 
 Prinsengracht 310, I, 1016 BW, Amsterdam, Netherlands
 
-
-# Resume
-
 ## Work
 
 #### Senior developer/Tech lead
