@@ -132,15 +132,16 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ### Programming:
 
-- Actionscript 3.0
+- javascript
 - Openframeworks / C++
+- xhtml + css  + sass/compass
+- Actionscript 3.0
+- Ruby, Rails
+- shell scripting
 - Objective-C
 - Processing / Java
-- Ruby, Rails
-- PHP & MySQL
 - supercollider
-- jquery / javascript / coffeescript
-- xhtml + css  + sass/compass
+
 
 ### Software:
 
@@ -151,14 +152,16 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ### Interests
 
+- full stack web development
+- unix
 - Computer vision
+- Data analysis and visualization.
 - Interactive installations
 - Livecoding
 - Iphone development
 - Computer Music
 - Stop motion animation
 - Motion graphics
-- Data analysis and visualization.
 
 ## Other
 
