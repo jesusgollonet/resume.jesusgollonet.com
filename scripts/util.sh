@@ -14,7 +14,7 @@ EOF
 
 
 function generate(){
-    pandoc resume.md -c style.css -s -o index.html
+    pandoc resume.md -c style.css --template=template.html -s -o index.html
 }
 
 # generate && open cv
