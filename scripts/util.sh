@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # depends on pandoc
 
 ## up to you to keep this up to date
