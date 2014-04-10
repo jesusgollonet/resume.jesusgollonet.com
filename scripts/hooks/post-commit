@@ -1,2 +1,10 @@
 #!/bin/bash
+function deploy(){
+	echo "executing deploy from a hook"
+	. scripts/util.sh
+	publish
+}
+
+deploy
+
 echo "post-commit!"
