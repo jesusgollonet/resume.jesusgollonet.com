@@ -16,6 +16,7 @@ EOF
 function generate(){
     echo "generate resume"
     pandoc resume.md -c style.css --template=template.html -s -o index.html
+    pandoc resume.md -c style.css -s -o jesus-gollonet-resume.pdf
 }
 
 # generate && open cv
