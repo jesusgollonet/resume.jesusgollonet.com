@@ -28,6 +28,7 @@ function publish(){
     generate 
     echo "publish resume"
     scp index.html style.css jgb:public_html/resume.jesusgollonet.com
+    scp jesus-gollonet-resume.pdf style.css jgb:public_html/resume.jesusgollonet.com/
     echo "resume published to http://resume.jesusgollonet.com"
     open http://resume.jesusgollonet.com
 }
