@@ -30,8 +30,8 @@ function preview(){
 function publish(){
     generate 
     echo "publish resume"
-    scp $DST/index.html style.css jgb:public_html/resume.jesusgollonet.com
-    scp $DST/jesus-gollonet-resume.pdf style.css jgb:public_html/resume.jesusgollonet.com/
+    scp $DST/index.html $DST/style.css jgb:public_html/resume.jesusgollonet.com
+    scp $DST/jesus-gollonet-resume.pdf jgb:public_html/resume.jesusgollonet.com/
     echo "resume published to http://resume.jesusgollonet.com"
     open http://resume.jesusgollonet.com
 }
