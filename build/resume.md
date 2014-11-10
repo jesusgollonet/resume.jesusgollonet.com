@@ -6,6 +6,12 @@ C/ Halcon, 15. 29651. Mijas Costa, Malaga
 
 ## Work
 
+#### Freelance full stack developer
+##### jesusgollonet.com, Malaga, Spain. *April 2014 - Present*
+
+Working on international projects, producing and developing websites for brands such as g-star, adidas, Louis Vuitton while spending more time on personal projects. Most of my work is remote, with occasional trips when needed.
+
+
 #### Senior developer/Tech lead
 ##### Resn, Amsterdam. *October 2012 – March 2014*
 
