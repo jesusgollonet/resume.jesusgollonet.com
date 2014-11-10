@@ -1,7 +1,9 @@
 # Jesús Gollonet Bailén, developer
 
 me@jesusgollonet.com
+
 +34 646 48 36 99
+
 C/ Halcon, 15. 29651. Mijas Costa, Malaga
 
 ## Work
