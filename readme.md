@@ -20,12 +20,7 @@ Opens html version in a browser (runs generate)
 
 $> `publish` 
 
-Uploads pdf and html to resume.jesusgollonet.com
-- generate html and pdf version: `$ generate`
-- preview html version in a browser
-
-
 
 ## Dependencies
-- pandoc (for markdown to html)
-- wkhtmltopdf (html to pdf)
+- [pandoc](http://johnmacfarlane.net/pandoc/) (for markdown to html)
+- [wkhtmltopdf](http://wkhtmltopdf.org/) (html to pdf)
