@@ -1,5 +1,5 @@
 #!/bin/bash
-# depends on pandoc
+# depends on pandoc & wkhtmltopdf
 
 ## up to you to keep this up to date
 function lsmethods(){
@@ -12,23 +12,26 @@ publish
 EOF
 }
 
+SRC="build"
+DST="output"
 
 function generate(){
     echo "generate resume"
-    pandoc resume.md -c style.css --template=template.html -s -o index.html
-    wkhtmltopdf index.html jesus-gollonet-resume.pdf
+    cp $SRC/style.css $DST/style.css
+    pandoc $SRC/resume.md -c style.css --template=$SRC/template.html -s -o $DST/index.html 
+    wkhtmltopdf $DST/index.html $DST/jesus-gollonet-resume.pdf
 }
 
 # generate && open cv
 function preview(){
-    generate && o index.html
+    generate && o $DST/index.html
 }
 
 function publish(){
     generate 
     echo "publish resume"
-    scp index.html style.css jgb:public_html/resume.jesusgollonet.com
-    scp jesus-gollonet-resume.pdf style.css jgb:public_html/resume.jesusgollonet.com/
+    scp $DST/index.html style.css jgb:public_html/resume.jesusgollonet.com
+    scp $DST/jesus-gollonet-resume.pdf style.css jgb:public_html/resume.jesusgollonet.com/
     echo "resume published to http://resume.jesusgollonet.com"
     open http://resume.jesusgollonet.com
 }
