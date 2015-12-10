@@ -4,7 +4,7 @@ me@jesusgollonet.com
 
 +34 646 48 36 99
 
-C/ Halcon, 15. 29651. Mijas Costa, Malaga
+C/ Edward Elgar, 6, 6A. 29002. Malaga. Spain
 
 ## Work
 
@@ -17,12 +17,12 @@ Working on international projects, producing and developing websites for brands 
 #### Senior developer/Tech lead
 ##### Resn, Amsterdam. *October 2012 – March 2014*
 
-I developed and tech led projects for clients such as coca cola, adidas, converse, rei. My duties included frontend and backend development, project planning, estimation and management and coordination with external vendors and clients.
+I developed and led projects for clients such as coca cola, adidas, converse, rei. My duties included frontend and backend development, project planning, estimation and management and coordination with external vendors and clients.
 
 #### Creative developer
 ##### The Dam Armada (part of W+K Amsterdam), Amsterdam. *September 2010 – September 2012*
 
-I developed an app for the generative identity of coca cola music global. I also developed and prototyped apps for android and ios using c++ and objective-c, an ipad book for children, interactive installations and websites using wordpress and middleman. 
+I developed an app for the generative identity of coca cola music global. I also developed and prototyped apps for android and ios using c++ and objective-c, an ipad book for children, interactive installations and websites. 
 
 #### Freelance Interactive Media Developer
 ##### Self-employed, Barcelona. *June 2008 – August 2010*
