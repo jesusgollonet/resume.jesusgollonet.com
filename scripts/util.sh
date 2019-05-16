@@ -7,8 +7,6 @@ cat << EOF
 lsmethods: list all available methods for the project
 generate
 preview
-publish
-      
 EOF
 }
 
@@ -27,11 +25,3 @@ function preview(){
     generate && o $DST/index.html
 }
 
-function publish(){
-    generate 
-    echo "publish resume"
-    scp $DST/index.html $DST/style.css jgb:public_html/resume.jesusgollonet.com
-    scp $DST/jesus-gollonet-resume.pdf jgb:public_html/resume.jesusgollonet.com/
-    echo "resume published to http://resume.jesusgollonet.com"
-    open http://resume.jesusgollonet.com
-}

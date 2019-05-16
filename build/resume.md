@@ -1,12 +1,13 @@
-# Jesús Gollonet Bailén, developer
+# Jesús Gollonet Bailén resume
+[https://jesusgollonet.com](https://jesusgollonet.com)
 
-me@jesusgollonet.com
-
-+34 646 48 36 99
-
-C/ Edward Elgar, 6, 6A. 29002. Malaga. Spain
 
 ## Work
+#### Tech Director 
+##### resn.co.nz, Amsterdam, Spain. *December 2015- Present*
+
+I work on architecting our interactive experiences, implementing and managing backend systems, being the main point of contact for technical communication with clients and vendors, and managing operations. 
+Projects for Adidas, Spotify, HBO, Nordstrom, HP
 
 #### Freelance full stack developer
 ##### jesusgollonet.com, Malaga, Spain. *April 2014 - Present*
@@ -180,3 +181,9 @@ Taught a yearlong course on design and development of digital interfaces to elec
 - [http://www.flickr.com/photos/jesusgollonet](http://www.flickr.com/photos/jesusgollonet)
 
 
+## Contact
+me@jesusgollonet.com
+
++34 646 48 36 99
+
+C/ Edward Elgar, 6, 3C. 29002. Malaga. Spain
