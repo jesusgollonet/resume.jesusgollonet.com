@@ -3,8 +3,29 @@
 
 
 ## Work
+
+#### Techincal Director / Software Engineer (freelance)
+##### [jesusgollonet.com](https://jesusgollonet.com), Malaga, Spain. *August 2023 - Present*
+
+I help companies pitch, estimate, plan and execute and document complex projects in time and on budget. From architecture and prototyping to communication, project management and implementation. Recent clients include North Kingdom and Unit 9, working for client such as Equinor, Mountain Dew, Fanta.
+
+#### Ops Manager 
+##### Boraborastudios, Barcelona, Spain. *December 2023 - April 2024* (part-time)
+
+I helped implement IaC templates and workflows to speed up their web campaign offerings. I helped develop a Rust frontend for their whitelabel backend solution, leveraging tauri, docker, pulumi and MQTT. Clients: Samsung, Beiersdorf.
+
+#### Technical Director 
+##### North Kingdom Design / N0A, Stockholm, Sweden. *February 2023 - August 2023* 
+
+I managed and maintained projects for Zoox, World Expo Dubai, Supercell, and managed the development team including biweekly 1on1s and team meetings.
+
+#### Technical Director 
+##### Dogstudio, Namur, Belgium. *October 2021 - Jan 2023* 
+
+I managed and maintained projects for Zoox, World Expo Dubai, Supercell, and managed the development team including biweekly 1on1s and team meetings.
+
 #### Tech Director 
-##### resn.co.nz, Amsterdam, Spain. *December 2015- Present*
+##### resn.co.nz, Amsterdam, Spain. *December 2015 - July 2021*
 
 I work on architecting our interactive experiences, implementing and managing backend systems, being the main point of contact for technical communication with clients and vendors, and managing operations. 
 Projects for Adidas, Spotify, HBO, Nordstrom, HP
