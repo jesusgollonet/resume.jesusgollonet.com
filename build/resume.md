@@ -125,8 +125,7 @@ Taught a yearlong course on design and development of digital interfaces to elec
 ## Awards & recognition
 
 #### adidas originals tumblr
-- awwwards site of the day
-- featured on hoverstates
+- awwwwards site of the day
 - fwa site of the day
 - fwa mobile of the day
 
@@ -160,46 +159,34 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ## Skills
 
-### Programming:
+### Programming / Software:
 
-- javascript
+- Javascript / Node.js / Typescript
+- AWS
+- Infrastructure as Code
+- Shell scripting
+- Pulumi / Terraform
+- Docker
+- Rust
 - Openframeworks / C++
-- xhtml + css  + sass/compass
-- Actionscript 3.0
-- Ruby, Rails
-- shell scripting
-- Objective-C
-- Processing / Java
-- supercollider
 
-
-### Software:
-
-- Adobe Creative Suite (Flash, Photoshop, Fireworks, Illustrator)
-- Ableton Live
-- Logic Pro
-- Propellerheads Reason
 
 ### Interests
 
+- Serverless architecture
 - full stack web development
 - unix
+- Systems administration
 - Computer vision
 - Data analysis and visualization.
 - Interactive installations
-- Livecoding
-- Iphone development
 - Computer Music
-- Stop motion animation
-- Motion graphics
 
 ## Other
 
-- [http://blog.jesusgollonet.com](http://blog.jesusgollonet.com)
-- [http://twitter.com/jesusgollonet](http://twitter.com/jesusgollonet)
-- [http://jesusgollonet.tumblr.com](http://jesusgollonet.tumblr.com)
-- [https://pinboard.in/u:jesusgollonet](https://pinboard.in/u:jesusgollonet)
-- [http://www.flickr.com/photos/jesusgollonet](http://www.flickr.com/photos/jesusgollonet)
+- [https://jesusgollonet.com/diary](https://jesusgollonet.com/diary)
+- [https://twitter.com/jesusgollonet](https://twitter.com/jesusgollonet)
+- [https://github.com/jesusgollonet](https://github.com/jesusgollonet)
 
 
 ## Contact
