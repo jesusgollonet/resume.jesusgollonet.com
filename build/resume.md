@@ -10,39 +10,39 @@
 I help companies pitch, estimate, plan and execute and document complex projects in time and on budget. From architecture and prototyping to communication, project management and implementation. Recent clients include North Kingdom and Unit 9, working for client such as Equinor, Mountain Dew, Fanta.
 
 #### Ops Manager 
-##### Boraborastudios, Barcelona, Spain. *December 2023 - April 2024* (part-time)
+##### [Boraborastudios](https://boraborastudios.com), Barcelona, Spain. *December 2023 - April 2024* (part-time)
 
 I helped implement IaC templates and workflows to speed up their web campaign offerings. I helped develop a Rust frontend for their whitelabel backend solution, leveraging tauri, docker, pulumi and MQTT. Clients: Samsung, Beiersdorf.
 
 #### Technical Director 
-##### North Kingdom Design / N0A, Stockholm, Sweden. *February 2023 - August 2023* 
+##### [North Kingdom Design / NoA](https://northkingdom.com), Stockholm, Sweden. *February 2023 - August 2023* 
 
-I managed and maintained projects for Zoox, World Expo Dubai, Supercell, and managed the development team including biweekly 1on1s and team meetings.
+I developed the backend of Masterclash, an educational video platform for Supercell's Clash of Clans game using AWS Lambda, DynamoDB, the serverless framework and Supercell APIs for Identity. I helped with project research and pitches for clients such as H&M, Supercell, Embark
 
 #### Technical Director 
-##### Dogstudio, Namur, Belgium. *October 2021 - Jan 2023* 
+##### [Dogstudio](https://dogstudio.be), Namur, Belgium. *October 2021 - Jan 2023* 
 
 I managed and maintained projects for Zoox, World Expo Dubai, Supercell, and managed the development team including biweekly 1on1s and team meetings.
 
 #### Tech Director 
-##### resn.co.nz, Amsterdam, Spain. *December 2015 - July 2021*
+##### [Resn](https://resn.co.nz), Amsterdam, Spain. *December 2015 - July 2021*
 
 I work on architecting our interactive experiences, implementing and managing backend systems, being the main point of contact for technical communication with clients and vendors, and managing operations. 
 Projects for Adidas, Spotify, HBO, Nordstrom, HP
 
 #### Freelance full stack developer
-##### jesusgollonet.com, Malaga, Spain. *April 2014 - Present*
+##### [jesusgollonet.com](https://jesusgollonet.com), Malaga, Spain. *April 2014 - Present*
 
 Working on international projects, producing and developing websites for brands such as g-star, adidas, Louis Vuitton while spending more time on personal projects. Most of my work is remote, with occasional trips when needed.
 
 
 #### Senior developer/Tech lead
-##### Resn, Amsterdam. *October 2012 – March 2014*
+##### [Resn](https://resn.co.nz), Amsterdam. *October 2012 – March 2014*
 
 I developed and led projects for clients such as coca cola, adidas, converse, rei. My duties included frontend and backend development, project planning, estimation and management and coordination with external vendors and clients.
 
 #### Creative developer
-##### The Dam Armada (part of W+K Amsterdam), Amsterdam. *September 2010 – September 2012*
+##### The Dam Armada (part of [ W+K Amsterdam ](https://wkams.com/)), Amsterdam. *September 2010 – September 2012*
 
 I developed an app for the generative identity of coca cola music global. I also developed and prototyped apps for android and ios using c++ and objective-c, an ipad book for children, interactive installations and websites. 
 
