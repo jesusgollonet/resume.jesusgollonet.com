@@ -4,7 +4,7 @@
 
 ## Work
 
-#### Techincal Director / Software Engineer (freelance)
+#### Technical Director / Software Engineer (freelance)
 ##### [jesusgollonet.com](https://jesusgollonet.com), Malaga, Spain. *August 2023 - Present*
 
 I help companies pitch, estimate, plan and execute and document complex projects in time and on budget. From architecture and prototyping to communication, project management and implementation. Recent clients include North Kingdom and Unit 9, working for client such as Equinor, Mountain Dew, Fanta.
