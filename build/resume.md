@@ -100,6 +100,11 @@ Taught a yearlong course on design and development of digital interfaces to elec
 
 ### Workshops, courses:
 
+#### Recurse Center 
+##### recurse.com . Online. *July - August 2024*
+A 6 week long retreat for programmers to work on self-directed projects. My
+main focus has been Python and Computer Vision.
+
 #### Software engineering for software as a service
 ##### coursera.org . Online. *May - June 2012*
 5 week long course on software engineering principles for SAAS covering topics such as Web architecture, TDD, BDD, etc. using ruby on rails
